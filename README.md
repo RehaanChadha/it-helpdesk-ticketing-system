@@ -57,8 +57,8 @@ The ticketing system includes the following fields:
 ---
 
 ## 📸 Screenshots
-(Add screenshots of your Google Sheet here)
-
+![System Overview](assets/ss2.png)
+![System details](assets/ss1.png)
 ---
 
 ## 🚀 What I Learned
